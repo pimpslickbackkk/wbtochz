@@ -20,3 +20,5 @@ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 Команда для активации setup.ps1
 .\setup.ps1 https://github.com/pimpslickbackkk/wbtochz.git
+git config --global user.email arvahmatov@gmail.com
+git config --global user.name pimpslickbackkk
